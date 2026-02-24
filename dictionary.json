@@ -1,0 +1,8 @@
+{
+  "python": "A high-level programming language",
+  "oop": "Object-Oriented Programming",
+  "api": "Application Programming Interface",
+  "json": "JavaScript Object Notation",
+  "socket": "An endpoint for sending or receiving data across a computer network",
+  "tcp": "protocol"
+}
